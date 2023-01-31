@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Airtel",
+        "company": "Airtel Tanzania Limited",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 05",
+        "prefixes": ["68", "69", "78"]
+    },
+    {
+        "name": "Halotel",
+        "company": "Viettel Tanzania Limited",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 09",
+        "prefixes": ["62"]
+    },
+    {
+        "name": "Smile",
+        "company": "Smile Telecoms Holdings Ltd",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 11",
+        "prefixes": ["66"]
+    },
+    {
+        "name": "Tigo",
+        "company": "MIC Tanzania Limited",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 02",
+        "prefixes": ["65", "67", "71"]
+    },
+    {
+        "name": "TTCL",
+        "company": "Tanzania Telecommunications Company Limited",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 07",
+        "prefixes": ["73"]
+    },
+    {
+        "name": "Vodacom",
+        "company": "Vodacom Tanzania Limited",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 04",
+        "prefixes": ["74", "75", "76"]
+    },
+    {
+        "name": "Zantel",
+        "company": "Zanzibar Telecom Public Limited Company",
+        "country": "Tanzania",
+        "country_code": "+255",
+        "carrier_codes": "640 03",
+        "prefixes": ["77"]
+    }
+]
