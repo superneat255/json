@@ -1,58 +1,130 @@
-[
+{
+  "abbr": {
+    "mcc": "Mobile Country Code",
+    "mnc": "Mobile Network Code",
+    "iin": "Issuer Identifier Number"
+  },
+  "operators": [
     {
-        "name": "Airtel",
-        "company": "Airtel Tanzania Limited",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 05",
-        "prefixes": ["68", "69", "78"]
+      "name": "Halotel",
+      "codes": [
+        "61",
+        "62"
+      ],
+      "operator": "Viettel Tanzania PLC",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "09"
+      ],
+      "iin": [
+        "8925509"
+      ]
     },
     {
-        "name": "Halotel",
-        "company": "Viettel Tanzania Limited",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 09",
-        "prefixes": ["62"]
+      "name": "Tigo Tanzania",
+      "codes": [
+        "65",
+        "67",
+        "71"
+      ],
+      "operator": "MIC Tanzania PLC",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "02"
+      ],
+      "iin": [
+        "8925502"
+      ]
     },
     {
-        "name": "Smile",
-        "company": "Smile Telecoms Holdings Ltd",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 11",
-        "prefixes": ["66"]
+      "name": "Zantel",
+      "codes": [
+        "77"
+      ],
+      "operator": "MIC Tanzania PLC",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "03"
+      ],
+      "iin": [
+        "8925503"
+      ]
     },
     {
-        "name": "Tigo",
-        "company": "MIC Tanzania Limited",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 02",
-        "prefixes": ["65", "67", "71"]
+      "name": "Smile",
+      "codes": [
+        "66"
+      ],
+      "operator": "Smile Communications Tanzania Limited",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "11"
+      ],
+      "iin": [
+        "8925511"
+      ]
     },
     {
-        "name": "TTCL",
-        "company": "Tanzania Telecommunications Company Limited",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 07",
-        "prefixes": ["73"]
+      "name": "Airtel Tanzania",
+      "codes": [
+        "68",
+        "69",
+        "78"
+      ],
+      "operator": "Airtel Tanzania PLC",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "05"
+      ],
+      "iin": [
+        "8925505"
+      ]
     },
     {
-        "name": "Vodacom",
-        "company": "Vodacom Tanzania Limited",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 04",
-        "prefixes": ["74", "75", "76"]
+      "name": "Vodacom Tanzania",
+      "codes": [
+        "74",
+        "75",
+        "76"
+      ],
+      "operator": "Vodacom Tanzania PLC",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "04"
+      ],
+      "iin": [
+        "8925504"
+      ]
     },
     {
-        "name": "Zantel",
-        "company": "Zanzibar Telecom Public Limited Company",
-        "country": "Tanzania",
-        "country_code": "+255",
-        "carrier_codes": "640 03",
-        "prefixes": ["77"]
+      "name": "TTCL",
+      "codes": [
+        "74",
+        "75",
+        "76"
+      ],
+      "operator": "Tanzania Telecommunications Corporation",
+      "country": "Tanzania",
+      "country_code": "+255",
+      "mcc": "640",
+      "mnc": [
+        "07"
+      ],
+      "iin": [
+        "8925507"
+      ]
     }
-]
+  ]
+}
